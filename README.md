@@ -11,7 +11,7 @@ Speakeasy is a growing collection of OSINT related blogs, resources, talks, etc.
 
 - [Tracelabs Contestants Writeups](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md) -By Tracelabs
 
-- [hatless1der Blogs](https://hatless1der.com/)
+- [hatless1der Blogs](https://hatless1der.com/) -By hatless1der
 
 ## Tools
 
