@@ -42,3 +42,11 @@ Speakeasy is a growing collection of OSINT related blogs, resources, talks, etc.
 - [Facial Recognition](https://www.osintcombine.com/post/facial-recognition-for-verification-missing-persons)
 
 ## Videos
+
+- [OSINT Overview](https://www.youtube.com/watch?v=gSXBa5RehYk) -By Covert Cabal
+
+- [Investigating OSINT as they happen](https://www.youtube.com/watch?v=yrOOdq25wMw) -By SANS Institute
+
+- [OSINT 101](https://www.youtube.com/watch?v=uxZyzJGfrUY) -By WWHF
+
+- [Weaponising the Deep Web](https://www.youtube.com/watch?v=eLL6BPKvwlg) -By SANS Institute
