@@ -13,6 +13,8 @@ Speakeasy is a growing collection of OSINT related blogs, resources, talks, etc.
 
 - [hatless1der Blogs](https://hatless1der.com/) -By hatless1der
 
+- [Offensive OSINT Blogs](https://www.offensiveosint.io/author/wojciech/) -By Wojciech
+
 ## Tools
 
 - [Tracelabs VM](https://www.tracelabs.org/initiatives/osint-vm)
