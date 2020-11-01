@@ -17,29 +17,47 @@ Speakeasy is a growing collection of OSINT related blogs, resources, talks, etc.
 
 ## Tools
 
-- [Tracelabs VM](https://www.tracelabs.org/initiatives/osint-vm)
 
-- [Spiderfoot](https://www.spiderfoot.net/)
-
-- [OSINTFramework](https://osintframework.com/)
-
-- [Set it on Fire Child](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104)
+### A B C
 
 - [CTI & OSINT Resources](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0)
 
-- [Whatsmyname (Username Enumeration)](https://whatsmyname.app/)
+### D E F 
 
-- [OSINT Toolkit](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+- [Facial Recognition](https://www.osintcombine.com/post/facial-recognition-for-verification-missing-persons)
 
-- [Sherlock](https://github.com/sherlock-project/sherlock)
-
-- [Shodan](https://shodan.io)
+### G H I
 
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 
+### J K L
+
+### M N O
+
 - [Maltego](https://www.maltego.com/)
 
-- [Facial Recognition](https://www.osintcombine.com/post/facial-recognition-for-verification-missing-persons)
+- [OSINTFramework](https://osintframework.com/)
+
+- [OSINT Toolkit](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+
+### P Q R S
+
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+
+- [Spiderfoot](https://www.spiderfoot.net/)
+
+- [Shodan](https://shodan.io)
+
+- [Set it on Fire Child](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104)
+
+### T U V
+
+- [Tracelabs VM](https://www.tracelabs.org/initiatives/osint-vm)
+
+### W X Y Z
+
+- [Whatsmyname (Username Enumeration)](https://whatsmyname.app/)
+
 
 ## Videos
 
