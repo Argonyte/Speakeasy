@@ -20,15 +20,21 @@ Speakeasy is a growing collection of OSINT related blogs, resources, talks, etc.
 
 ### A B C
 
+- [Bellingcat OSINT Landscape](https://start.me/p/ELXoK8/bellingcat-osint-landscape)
+
 - [CTI & OSINT Resources](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0)
 
 ### D E F 
+
+- [Data Visualization](https://www.osintcombine.com/data-visualization-tool)
 
 - [Facial Recognition](https://www.osintcombine.com/post/facial-recognition-for-verification-missing-persons)
 
 ### G H I
 
 - [Have I Been Pwned](https://haveibeenpwned.com/)
+
+- [IntelligenceX Toolkit](https://intelx.io/tools)
 
 ### J K L
 
@@ -42,13 +48,13 @@ Speakeasy is a growing collection of OSINT related blogs, resources, talks, etc.
 
 ### P Q R S
 
-- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [Set it on Fire Child](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104)
 
-- [Spiderfoot](https://www.spiderfoot.net/)
+- [Sherlock](https://github.com/sherlock-project/sherlock)
 
 - [Shodan](https://shodan.io)
 
-- [Set it on Fire Child](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104)
+- [Spiderfoot](https://www.spiderfoot.net/)
 
 ### T U V
 
