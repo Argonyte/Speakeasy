@@ -6,7 +6,7 @@ Please make sure your pull requests follow these guidelines:
 
 - The pull request and commit should have a title related to the resource.
 
-- Make sure all pull request and commit are made in Alphabetical order.
+- Make sure all pull request and commit are made in Alphabetical order under tools.
 
 - Use the following format: `[Name](link)  - Author/YouTube Channel/Information about the resource.`
 
