@@ -27,6 +27,7 @@ Speakeasy is a growing collection of OSINT related blogs, resources, talks, etc.
 
 - [theHarvester](https://github.com/laramies/theHarvester)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
+- [Hunchly](https://www.hunch.ly/)
 - [IntelligenceX Toolkit](https://intelx.io/tools)
 
 ### J K L
