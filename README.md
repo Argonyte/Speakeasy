@@ -62,3 +62,11 @@ Speakeasy is a growing collection of OSINT related blogs, resources, talks, etc.
 - [OSINT 101](https://www.youtube.com/watch?v=uxZyzJGfrUY) -By WWHF
 - [Weaponising the Deep Web](https://www.youtube.com/watch?v=eLL6BPKvwlg) -By SANS Institute
 - [Turning Information into Intelligence](https://www.youtube.com/watch?v=9-IHQEryuZ0&app=desktop) -By Chris Poulter 
+
+## Trainings
+
+- [OSINT Fundamentals](https://www.cybrary.it/course/osint-fundamentals/)
+- [OSINT Combine Trainings](https://www.osintcombine.com/online-osint-academy)
+- [Toddington](https://www.toddington.com/osint-training/)
+- [The OSINTION](https://www.theosintion.com/)
+- [Automating OSINT](https://register.automatingosint.com/)
