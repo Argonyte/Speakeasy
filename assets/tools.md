@@ -4,6 +4,7 @@
 ## A B C
 
 - [Bellingcat OSINT Landscape](https://start.me/p/ELXoK8/bellingcat-osint-landscape)
+- [Creepy](https://www.geocreepy.com/)
 - [CTI & OSINT Resources](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0)
 
 ## D E F 
@@ -29,13 +30,18 @@
 ## P Q R S
 
 - [Phoneinfoga](https://github.com/sundowndev/PhoneInfoga)
+- [Recon-ng Framework](https://github.com/lanmaster53/recon-ng)
+- [Searchcode](https://searchcode.com/)
 - [Set it on Fire Child](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
 - [Shodan](https://shodan.io)
 - [Spiderfoot](https://www.spiderfoot.net/)
+- [Spyse](https://spyse.com/)
 
 ## T U V
 
+- [UserSearch](https://usersearch.org/index.php)
+- [TinEye](https://tineye.com/)
 - [TorBot](https://github.com/DedSecInside/TorBot)
 - [Tracelabs VM](https://www.tracelabs.org/initiatives/osint-vm)
 
