@@ -6,4 +6,4 @@
 - [Tracelabs Contestants Writeups](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md) -By Tracelabs
 - [hatless1der Blogs](https://hatless1der.com/) -By hatless1der
 - [Offensive OSINT Blogs](https://www.offensiveosint.io/author/wojciech/) -By Wojciech
-- [OSINT: The What, The Why, and The How](https://medium.com/ax1al/osint-the-what-why-and-the-how-77be7b3989f7)
+- [OSINT: The What, The Why, and The How](https://medium.com/ax1al/osint-the-what-why-and-the-how-77be7b3989f7) -By Argonyte
