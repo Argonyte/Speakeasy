@@ -4,8 +4,7 @@ Speakeasy is a growing collection of OSINT related blogs, resources, talks, etc.
 ## Navigation
 
 - [Blogs](https://github.com/Argonyte/Speakeasy/blob/main/assets/blogs.md)
+- [Books](https://github.com/Argonyte/Speakeasy/blob/main/assets/books.md)
 - [Tools](https://github.com/Argonyte/Speakeasy/blob/main/assets/tools.md)
-- [Trainings](https://github.com/Argonyte/Speakeasy/blob/main/assets/trainings.md)
+- [Trainings & CTFs](https://github.com/Argonyte/Speakeasy/blob/main/assets/trainings.md)
 - [Videos](https://github.com/Argonyte/Speakeasy/blob/main/assets/videos.md)
-
-
